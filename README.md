@@ -1,5 +1,5 @@
 # BabaPlanet
 A levelpack for Baba is You.
 
-## Current Version: 0.1
-(Added World Map and Machinery Meadows)
+## Current Version: 0.2
+(Added Part 1 of Cloud Cottages)
