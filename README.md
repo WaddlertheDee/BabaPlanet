@@ -5,4 +5,4 @@ A levelpack for Baba is You.
 (Added Part 1 of Cloud Cottages)
 
 ## To Download
-Go into the Babaplanet.zip file and click "view raw"
+Go into the Babaplanet0.2.zip file and click "view raw"
