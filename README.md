@@ -1,7 +1,12 @@
 # BabaPlanet
 A levelpack for Baba is You.
 
-## Current Version: 0.2.5
+## Current Version: 0.2.5.1
+Hopefully removed some cheese from Clouds-7
+
+Fixed a visual glitch in The Sky
+
+### V2.5
 Added Part 2 of Cloudy Cottages
 
 Removed "cloudwalking.ogg" from the music folder
